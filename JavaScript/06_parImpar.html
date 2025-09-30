@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Par o Impar</title>
+</head>
+<body>
+  <script>
+    let numero = prompt("Introduzca un número entero: ");
+    let entero = parseInt(numero);
+
+    if (isNaN(entero)) {
+      document.write(`"${numero}" no es un valor válido. Por favor, ingrese un número entero.`);
+    }
+    else if (entero === 0) {
+      document.write("El valor es cero");
+    }
+    else if (entero % 2 === 0) {
+      document.write(`${entero} es un número par.`);
+    }
+    else {
+     document.write(`${entero} es un número impar.`);
+    }
+  </script>
+</body>
+</html>
