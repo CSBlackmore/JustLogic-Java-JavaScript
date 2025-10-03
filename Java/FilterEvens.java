@@ -1,7 +1,6 @@
-package Java;
 import java.util.*;
 
-public class filterEvens {
+public class FilterEvens {
     public static List<Integer> filterEvens(List<Integer> numbers) {
         List<Integer> evensOnly = new ArrayList<>();
         for (Integer element : numbers) {

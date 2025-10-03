@@ -1,5 +1,3 @@
-package Java;
-
 public class MultipleOfThree {
 
     public static String checkMultiple(int num) {

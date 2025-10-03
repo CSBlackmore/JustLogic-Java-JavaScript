@@ -1,5 +1,3 @@
-package Java;
-
 public class evenOdd {
     public static String checkEvenOdd(int number) {
         

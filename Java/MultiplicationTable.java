@@ -1,5 +1,3 @@
-package Java;
-
 public class MultiplicationTable {
     public static void printTable(int n) {
         

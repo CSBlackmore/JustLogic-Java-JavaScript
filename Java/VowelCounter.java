@@ -1,5 +1,3 @@
-package Java;
-
 public class VowelCounter {
     public static int countVowels(String text) {
         int totalVocales = 0;

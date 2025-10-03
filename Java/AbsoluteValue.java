@@ -1,5 +1,3 @@
-package Java;
-
 public class AbsoluteValue {
     public static int absValue(int n) {
     
@@ -11,4 +9,3 @@ public class AbsoluteValue {
         System.out.println(absValue(10)); // 10
     }
 }
-

@@ -1,5 +1,3 @@
-package Java;
-
 public class IsPrime {
     public static boolean isPrime(int n) {
 

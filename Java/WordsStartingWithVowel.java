@@ -1,7 +1,4 @@
-package Java;
-
 import java.util.*;
-
 public class WordsStartingWithVowel {
     public static List<String> filterWords(List<String> words) {
         List<String> empiezaConVocal = new ArrayList<>();

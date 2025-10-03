@@ -1,5 +1,3 @@
-package Java;
-
 public class Kata {
     public static String reverseWords(final String original) {
         // Implementa aquí la lógica para invertir cada palabra

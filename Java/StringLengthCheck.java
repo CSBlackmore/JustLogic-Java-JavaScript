@@ -1,5 +1,3 @@
-package Java;
-
 public class StringLengthCheck {
     public static String checkLength(String text) {
         

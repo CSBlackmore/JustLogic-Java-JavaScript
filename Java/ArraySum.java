@@ -1,5 +1,3 @@
-package Java;
-
 public class ArraySum {
     public static int sumArray(int[] numbers) {
         int sumaTotal = 0;

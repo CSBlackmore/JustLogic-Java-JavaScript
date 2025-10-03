@@ -1,5 +1,3 @@
-package Java;
-
 public class Factorial {
     public static long factorial(int n) {
 

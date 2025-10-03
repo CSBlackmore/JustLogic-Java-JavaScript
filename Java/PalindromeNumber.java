@@ -1,5 +1,3 @@
-package Java;
-
 public class PalindromeNumber {
     public static boolean isPalindrome(int number) {
         if (number < 0) {

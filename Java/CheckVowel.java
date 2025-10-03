@@ -1,5 +1,3 @@
-package Java;
-
 public class CheckVowel {
     public static boolean isVowel(char c) {
         c = Character.toLowerCase(c);

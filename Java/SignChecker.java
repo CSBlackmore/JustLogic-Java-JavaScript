@@ -1,5 +1,3 @@
-package Java;
-
 public class SignChecker {
 
     public static String checkSign(int num) {

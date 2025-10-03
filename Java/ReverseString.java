@@ -1,5 +1,3 @@
-package Java;
-
 public class ReverseString {
     public static String reverse(String text) {
         if (text == null || text.isEmpty()) {
