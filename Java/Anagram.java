@@ -18,4 +18,3 @@ public class Anagram {
         System.out.println(isAnagram("hello", "world"));   // false
     }
 }
-
